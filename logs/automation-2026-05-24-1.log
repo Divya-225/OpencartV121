@@ -1,0 +1,47 @@
+19:59:16.730 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+19:59:16.757 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+19:59:16.894 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+19:59:17.644 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+19:59:19.217 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:03:26.115 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:03:26.135 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:03:26.361 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:03:26.939 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:03:28.988 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:05:06.742 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:05:06.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:05:06.876 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:05:07.835 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:05:10.065 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:10:25.879 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:10:25.901 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:10:26.012 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:10:27.066 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:10:31.920 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:11:23.499 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:11:23.518 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:11:23.620 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:11:24.143 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:11:26.613 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:14:57.901 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:14:57.924 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:14:58.022 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:14:58.634 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:14:59.175 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:15:00.061 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+20:15:00.061 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
+20:28:18.487 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:28:18.508 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:31:39.703 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:31:39.721 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:31:39.851 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:31:40.438 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:31:43.220 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:31:43.252 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+20:38:13.838 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:38:13.854 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:38:13.960 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:38:15.127 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:38:17.295 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:38:17.369 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+20:40:55.106 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****

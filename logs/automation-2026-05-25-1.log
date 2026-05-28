@@ -1,0 +1,56 @@
+20:40:55.129 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:40:55.270 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:40:55.985 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:40:58.727 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:40:58.780 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+20:45:16.099 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml"
+20:45:16.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml
+
+20:45:20.614 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:45:20.639 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:45:20.750 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:45:21.388 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:45:23.331 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:45:23.405 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+20:46:01.678 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml"
+20:46:01.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml
+
+20:46:06.244 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:46:06.275 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:46:06.404 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:46:07.110 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:46:09.926 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:46:09.995 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+20:46:09.995 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
+20:58:35.249 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml"
+20:58:35.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml
+
+20:58:59.473 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+20:58:59.498 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+20:58:59.728 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+20:59:00.413 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+20:59:03.530 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+20:59:03.588 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+19:48:49.662 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml"
+19:48:49.904 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml
+
+19:48:58.925 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+19:48:58.955 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+19:48:59.074 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+19:48:59.583 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+19:49:01.173 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+19:49:01.248 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+19:49:04.918 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+19:51:41.764 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml"
+19:51:41.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml
+
+19:51:44.709 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+19:52:38.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml"
+19:52:38.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\src\test\java\testCases\testng.xml
+

@@ -1,0 +1,50 @@
+23:11:42.495 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:11:42.674 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+23:11:44.104 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+23:11:44.291 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:11:44.296 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:11:44.473 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+23:11:44.926 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+23:11:45.971 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+23:11:45.973 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
+23:11:46.099 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+23:11:47.755 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+23:11:47.803 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+23:11:47.803 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
+23:15:34.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml"
+23:15:34.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml
+
+23:15:38.676 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:15:38.706 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:15:38.823 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+23:15:39.273 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+23:15:41.211 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+23:15:41.247 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+23:15:41.247 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
+23:15:41.864 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:15:41.864 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:15:42.038 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+23:15:43.100 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+23:15:45.059 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+23:15:45.095 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+23:15:45.095 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
+23:23:18.576 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml"
+23:23:18.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml
+
+23:23:27.392 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:23:27.392 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:23:27.406 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:23:27.406 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:23:27.553 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+23:23:27.611 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+23:24:19.324 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml"
+23:24:19.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml
+
+23:24:23.977 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:24:23.977 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+23:24:23.997 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:24:23.997 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+23:24:24.154 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***

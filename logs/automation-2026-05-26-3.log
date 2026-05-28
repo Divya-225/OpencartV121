@@ -1,0 +1,51 @@
+22:45:36.404 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+22:55:49.950 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml"
+22:55:50.158 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml
+
+22:55:54.366 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:55:54.389 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:55:54.518 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:55:56.782 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+22:55:58.361 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+22:55:58.396 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+22:56:09.709 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:56:09.709 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:56:09.841 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:56:10.396 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+22:56:10.976 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+22:56:12.536 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+22:57:08.486 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml"
+22:57:08.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml
+
+22:57:13.553 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:57:13.578 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:57:13.701 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:57:14.411 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+22:57:16.383 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
+22:57:16.428 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
+22:57:18.886 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+22:57:48.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml"
+22:57:48.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml
+
+22:57:57.420 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:57:57.420 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:57:57.438 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:57:57.438 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:57:57.576 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:57:57.633 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:58:45.624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml"
+22:58:45.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\crossBrowserTesting.xml
+
+22:58:49.353 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:58:49.376 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:58:49.516 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:58:49.666 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
+22:58:49.667 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
+22:58:49.855 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
+22:58:50.581 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+22:58:50.982 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
+22:58:51.741 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
