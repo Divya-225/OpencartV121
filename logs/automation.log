@@ -1,33 +1,36 @@
-11:01:47.382 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
-11:01:47.465 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
-11:01:50.292 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
-11:03:37.342 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\grid-docker.xml"
-11:03:42.165 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
-11:03:42.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
-11:03:42.369 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
-11:03:42.972 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
-11:03:45.474 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
-11:03:45.546 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
-11:03:48.113 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
-11:04:02.521 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
-11:04:02.522 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
-11:04:02.897 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
-11:04:07.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
-11:04:09.558 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
-11:04:09.620 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
-11:04:17.126 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
-11:04:52.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\grid-docker.xml"
-11:04:57.103 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
-11:04:57.130 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
-11:04:57.288 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
-11:04:57.994 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
-11:05:00.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
-11:05:00.366 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
-11:05:03.937 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
-11:05:19.062 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting testcase TC001_AccountRegristration****
-11:05:19.063 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on MyAccount***
-11:05:19.501 [main] INFO  testCases.TC001_AccountRegistrationTest - ******clicked on Register***
-11:05:21.095 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Info for Registration***
-11:05:25.039 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating the registration***
-11:05:25.188 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished testcase Execution***
-11:05:32.343 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+15:58:03.500 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+15:58:07.966 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:00:06.877 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml"
+16:00:07.234 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml
+
+16:00:15.740 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+16:00:27.364 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:06:11.809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml"
+16:06:12.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml
+
+16:06:16.602 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+16:06:22.360 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:06:24.165 [main] INFO  testCases.TC005_AddToCartPageTest - Product added to cart successfully
+16:06:24.165 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartTest 
+16:06:57.604 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml"
+16:06:57.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml
+
+16:07:01.864 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+16:07:06.940 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:07:09.014 [main] INFO  testCases.TC005_AddToCartPageTest - Product added to cart successfully
+16:07:09.014 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartTest 
+16:16:18.406 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml"
+16:16:18.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml
+
+16:16:22.271 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+16:16:28.554 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:18:58.828 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml"
+16:18:59.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse_selenium\OpencartV121\testng.xml
+
+16:19:05.777 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+16:19:11.835 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
